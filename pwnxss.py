@@ -1,6 +1,6 @@
 '''
 PwnXSS - 2019/2024
-This project was created by Ahmed AL-Nassid.
+This project was created by Ahmed AL-Nassif.
 Copyright under the MIT license
 '''
 import argparse
